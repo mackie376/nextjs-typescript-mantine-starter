@@ -18,8 +18,22 @@
     "url": "https://github.com/mackie376/nextjs-typescript-mantine-starter/issues",
     "email": "mackie@beehive-dev.com"
   },
-  "scripts": {},
-  "dependencies": {},
-  "devDependencies": {},
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "^13.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^4.9.5"
+  },
   "packageManager": "yarn@3.4.1"
 }
