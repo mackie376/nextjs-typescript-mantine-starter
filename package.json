@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-typescript-mantine-starter",
+  "description": "Next.js + TypeScript + Mantine Starter Kit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mackie376/nextjs-typescript-mantine-starter",
+  "author": {
+    "name": "Takashi Makimtoo",
+    "email": "mackie@beehive-dev.com",
+    "url": "https://www.beehive-dev.com"
+  },
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mackie376/nextjs-typescript-mantine-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/mackie376/nextjs-typescript-mantine-starter/issues",
+    "email": "mackie@beehive-dev.com"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "packageManager": "yarn@3.4.1"
+}
